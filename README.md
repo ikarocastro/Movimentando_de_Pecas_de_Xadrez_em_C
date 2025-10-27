@@ -7,3 +7,4 @@ DESAFIO XADREZ EM C
 
 ---------------------------------
 Utilizando tecnicas como Loops e recursividade!
+E uma pasta para test de códigos!
